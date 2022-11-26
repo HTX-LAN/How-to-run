@@ -11,20 +11,33 @@ This document is in danish.
 - [HTX LAN](#htx-lan)
   - [LAN udvalg](#lan-udvalg)
     - [Opgaver](#opgaver)
-  - [Platforme](#platforme)
-  - [Materiale](#materiale)
   - [Tidsplan](#tidsplan)
     - [August](#august)
     - [September](#september)
     - [Oktober](#oktober)
     - [November](#november)
+  - [Platforme](#platforme)
+    - [Hjemmeside](#hjemmeside)
+    - [Discord](#discord)
+    - [Mail](#mail)
+    - [Challonge](#challonge)
+    - [Challengermode](#challengermode)
+    - [Twitch](#twitch)
+    - [YouTube](#youtube)
+    - [Facebook](#facebook)
+    - [GitHub](#github)
+  - [Materiale](#materiale)
+    - [Fysisk](#fysisk)
+    - [Digitalt](#digitalt)
+      - [Logo](#logo)
   - [Noter til eventet](#noter-til-eventet)
     - [Huskeliste til udvalget](#huskeliste-til-udvalget)
     - [Huskeliste til deltagere](#huskeliste-til-deltagere)
 
 # HTX LAN
 
-HTX LAN er et årligt lanparty hold på HTX i Nykøbing F., hvor elever fra Merkursplads 1 kan deltage, dimitteret HTX elever fra HTX i Nykøbing F. og elver fra HTX og HHX i Nakskov.
+HTX LAN er et årligt lanparty hold på HTX i Nykøbing F., hvor elever fra Merkursplads 1 (HTX, HHX, EUX, EUD) kan deltage, dimitteret HTX elever fra HTX i Nykøbing F. og elver fra HTX og HHX i Nakskov.  
+Lanpartiet afholdes normalt i 3. weekend i november, men dato afgøres af HTX Nykøbing F. og kan derfor variere.
 
 HTX LAN køres af LAN-udvalget, som er et udvalg på HTX i Nykøbing F.
 
@@ -32,7 +45,7 @@ HTX LAN køres af LAN-udvalget, som er et udvalg på HTX i Nykøbing F.
 
 LAN udvalget står for at køre selve HTX LAN, når det kommer til at arrangere, sætte op, tilmelding, betaling og lignende.  
 LAN udvalget består af en formand (oftest en fra 3. g) og en næstformand (oftest en fra 2. g), samt en række andre elever fra alle årgange.  
-Oftest vil et udvalg af over 10 være foretrukket.
+Oftest vil et udvalg af over 10 være foretrukket. Andre roller i udvalget, kan blive valgt af udvalget selv, såsom sekretær, sponsoransvarlig, og lignende.
 
 ### Opgaver
 
@@ -53,46 +66,20 @@ LAN udvalgets opgaver dækker blandt andet følgende:
 - Holde oplysninger omkring eventet up to date på diverse platforme
 - Organisering af mad for deltagere og crew
 - Sørge for en samlet planlægning af eventet
-- Evt håndtering af
+- Evt håndtering af (hvis der ønskes)
   - Streaming
   - VR rum
   - Brætspil / DND
 
-LAN udvalget har dog en række opgaver, som oftest er uddelegeret til et IT-crew, bestående af William, Kamilla og Jonas, som medbringer diverse IT udstyr. Dette er sponsoreret af powerstage, samt noget skolen står for (LAN udvalget skal ikke ligge penge i dette). Opgaver disse udfører indehodler blandt andet:
+LAN udvalget har dog en række opgaver, som oftest er uddelegeret til et IT-crew, bestående af William, Kamilla og Jonas, som medbringer diverse IT udstyr.  
+Dette er sponsoreret af powerstage, samt noget skolen står for (LAN udvalget skal ikke ligge penge i dette). 
+
+Opgaver disse udfører indehodler blandt andet:
 
 - Strøm
 - Internet
 - Servere hvor dedikeret spil servere kan hostes (evt. også opsætning og administrering af selve serverne til eventet)
 - Holde orden til eventet (vagt)
-
-## Platforme
-
-HTX LAN har en række forskellige platforme som de råder over, disse er:
-
-- [Hjemmeside (htx-lan.dk)](https://htx-lan.dk)
-- Mail
-  - info@htx-lan.dk ([webmail](https://mail.themikkel.dk))
-- [Challonge (htx_lan_dk)](https://challonge.com/da/users/htx_lan_dk)
-- [Challengermode (htxlan)](https://www.challengermode.com/s/htxlan)
-- Twitch (streaming)
-  - [Main - htx_lan](https://www.twitch.tv/htx_lan)
-  - [CS:GO - htx_lan_cs](https://www.twitch.tv/htx_lan_cs)
-  - [LOL - htx_lan_lol](https://www.twitch.tv/htx_lan_lol)
-- [YouTube (HTX LAN)](https://www.youtube.com/channel/UC4maHyWWoFK1ySk_VnMOMyg)
-- Facebook
-  - [Offentlig side - HTX lan](https://www.facebook.com/HTXLAN)
-  - Privat Facebook gruppe til LAN arbejde
-- [Discord](https://discord.com/invite/HcFZthv)
-- [Github - HTX-LAN organisation](https://github.com/HTX-LAN)
-
-Adgangskoder og lignende, kan fåes ved at tage fat i den formanden eller IT-crew
-
-## Materiale
-
-HTX LAN har også forskellige fysisk materialer, disse er:
-
-- HTX LAN logo skilt i plast (stort format)
-- HTX LAN banner skilt i metal (stort format)
 
 ## Tidsplan
 
@@ -154,6 +141,148 @@ Event
 På dagen efter lukning
 
 Efter event
+
+## Platforme
+
+HTX LAN har en række forskellige platforme som de råder over, disse er:
+
+- [Hjemmeside (htx-lan.dk)](https://htx-lan.dk)
+- [Discord](https://discord.com/invite/HcFZthv)
+- Mail
+  - info@htx-lan.dk ([webmail](https://mail.themikkel.dk))
+- [Challonge (htx_lan_dk)](https://challonge.com/da/users/htx_lan_dk)
+- [Challengermode (htxlan)](https://www.challengermode.com/s/htxlan)
+- Twitch (streaming)
+  - [Main - htx_lan](https://www.twitch.tv/htx_lan)
+  - [CS:GO - htx_lan_cs](https://www.twitch.tv/htx_lan_cs)
+  - [LOL - htx_lan_lol](https://www.twitch.tv/htx_lan_lol)
+- [YouTube (@htxlan)](https://www.youtube.com/channel/UC4maHyWWoFK1ySk_VnMOMyg)
+- Facebook
+  - [Offentlig side - HTX lan](https://www.facebook.com/HTXLAN)
+  - Privat Facebook gruppe til LAN arbejde
+- [GitHub - HTX-LAN organisation](https://github.com/HTX-LAN)
+
+Adgangskoder og lignende, kan fåes ved at tage fat i den formanden eller IT-crew
+
+De følgende sektioner, er beskrivende afsnit omkring hver enkelt platform.
+
+### Hjemmeside
+
+Hjemmesiden er en standard Wordpress hjemmeside, som hosted af IT-crew.  
+Hjemmesiden er designet til at være en platform for eventet, for informationer omkring eventet kan findes.  
+Derudover bruges siden som regel også til at have informationer, som deltagere skal bruge i løbet af eventet, såsom servere, regler, tidsplaner og lignende.  
+Et tema med lidt special lavet css danner grundlaget for designet på siden, men ved at det er en wordpress side, gør det virkelig nemt for udvalget at opdatere hjemmesiden, uden nogen kode erfaring, grundet en udelukkende visuel dashboard.  
+Det er LAN udvalgets ansvar at holde alle informationer på hjemmesiden opdateret.
+
+Til hjemmesiden, er der designet et speciellavet tilmeldings plugin - [wp-htxlan](https://github.com/HTX-LAN/wp-htxlan) - som er udviklet af tidligere LAN udvalgs medlemmer, og er åben for udvikling, hvis nogle vil prøve kræfter med kodning.  
+Pluginnet har følgende funktioner:
+- Formular, med avanceret features
+- Formular bygger
+- Tilmelder liste, med mulighed for afcheckning af betaling, ankommet, crew, m.m.
+- Økonomi styring (ikke betaling modul)
+- Turnerings system, som viser teams for hver turnering
+- Andre widgets
+
+Link: [https://www.htx-lan.dk/](https://www.htx-lan.dk/)  
+
+### Discord
+
+En primær platform er Discorden for HTX LAN, som en lang række nuværende og tidligere elever allerede er en del af.  
+Discorden fungere som et samlingssted for HTX LAN og dens deltagere, men kanaler dedikeret til crew, IT-crew, turnerings deltagere samt normale deltagere.  
+Bots er sat op til at automatisk kunne oprette hold til diverse turneringer. Kontakt evt The Mikkel (the_mikkel#4641) for at høre mere om disse bots.
+
+Discorden er en god ressource til at samle alt udvalgs arbejde et sted. Dette gør det også lidt muligt at søge efter gammelt materiale.  
+På discorden findes også tidligere udvalgs medlemmer og IT-crew, og gør det muligt at spørge til råds omkring forskellige emner.
+
+Discorden har tidligere, og bliver stadig, brandet hårdt og ledt op til at være et "*krav*" for at kunne deltage i eventet og dets turneringer, grundet nemheden for at kunne kommunikere informationer ud omkring eventet.  
+*Dog er det selvfølgelig ikke et krav, som på nogen måde forhindre i at deltagere uden Discord kan deltage i eventets og dets turneringer*
+
+Permanent invite link: [https://discord.gg/HcFZthv](https://discord.gg/HcFZthv)
+
+### Mail
+
+En mail for udvalget er opsat, med en default mail: info@htx-lan.dk  
+Der kan oprettes flere ved forespørgsel.  
+
+Det anbefales at bruge denne mail, til at kontakte udvalget, og evt. sætte mailen op til at pege på formandens private mail, for at sikre at uvalget modtager beskeder.  
+Mailen bruges også til diverse platformer.
+
+Mailen kan også tilgåes via web: [mail.themikkel.dk](https://mail.themikkel.dk)
+
+### Challonge
+
+Challonge er en turnerings platform, som kan bruges til at styre selve turnerings opsætningen.  
+Det er især godt at bruge til at styre CS:GO turnerings scoren, og derved også bruge til at afgøre hvem skal spille mod hvem.
+
+*Vær opmærksom på, at IT-crew har systemer til at styre selve CS:GO kampene på lokale servere*
+
+Link til konto: [https://challonge.com/da/users/htx_lan_dk](https://challonge.com/da/users/htx_lan_dk)
+
+### Challengermode
+
+Challengermode er en all-in-one turnerings platform, hvor turneringer kan administreres og afholdes.  
+Denne platform er især god til spil såsom League og Legends, Rocket League og mange andre.  
+Platformen instruere spillere i hvordan de kan joine, og for en lang række spil, har de servere sat op.  
+
+Challengermode kan også bruges til CS:GO, men fordi der hostes lokale servere til CS:GO til eventet, anbefales dette ikke
+
+HTX LAN har et *space* derpå, hvor der har haft været kørt turneringer før. Dette kan findes her: [https://www.challengermode.com/s/htxlan](https://www.challengermode.com/s/htxlan)  
+*Login til dette websted tildeles til brugere, men spacet er oprettet af en HTX LAN bruger*
+
+### Twitch
+
+HTX LAN har tre forskellige Twitch kanaler:
+- [Main - htx_lan](https://www.twitch.tv/htx_lan)
+- [CS:GO - htx_lan_cs](https://www.twitch.tv/htx_lan_cs)
+- [LOL - htx_lan_lol](https://www.twitch.tv/htx_lan_lol)
+
+Der er tre, fordi det gør det muligt at streame både LOL og to CS:GO kampe på samme tid.  
+
+Twitch er en streaming platform, og blev brugt som primære platform for HTX LAN i 2020, grundet Corona.  
+Der var god feedback fra dette, og HTX LAN har derved også en række følgere derpå.
+
+### YouTube
+
+YouTube bruges som katalog og evt. branding materiale til HTX LAN.
+
+På kanalen for HTX LAN findes der timelapses og livestreams fra tidligere afholdelser af HTX LAN
+
+Link: [https://www.youtube.com/@htxlan](https://www.youtube.com/@htxlan)
+
+### Facebook 
+
+Der er to Facebook platforme:
+- [Facebook side](https://www.facebook.com/HTXLAN)
+- Facebook gruppe - Lukket gruppe
+
+Facebook siden er en god platform til at levere nyheder omkring eventet. Det er også her Facebook eventet oprettes.
+
+Facebook gruppen bruges til internt LAN udvalgs arbejde.
+
+### GitHub
+
+GitHub er en udviklings platform, som bruger git (versions styrings system).  
+HTX LAN har en række elementer på GitHub under en [HTX LAN organisation](https://github.com/HTX-LAN)
+
+På GitHub, er en lang række oplysninger, plugins, server data og lignende gemt, såsom dette dokument.  
+Der ligger blandt andet også branding materiale.
+
+GitHub bruges ikke aktivt af LAN udvalget, men af IT-crew og som arkiv.
+
+Link: [https://github.com/HTX-LAN](https://github.com/HTX-LAN)
+
+## Materiale
+
+### Fysisk
+
+HTX LAN har også forskellige fysisk materialer, disse er:
+
+- HTX LAN logo skilt i plast (stort format)
+- HTX LAN banner skilt i metal (stort format)
+
+### Digitalt
+
+#### Logo
 
 ## Noter til eventet
 
