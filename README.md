@@ -16,6 +16,7 @@ This document is in danish.
     - [September](#september)
     - [Oktober](#oktober)
     - [November](#november)
+    - [Event](#event)
   - [Platforme](#platforme)
     - [Hjemmeside](#hjemmeside)
     - [Discord](#discord)
@@ -37,7 +38,8 @@ This document is in danish.
 # HTX LAN
 
 HTX LAN er et årligt lanparty hold på HTX i Nykøbing F., hvor elever fra Merkursplads 1 (HTX, HHX, EUX, EUD) kan deltage, dimitteret HTX elever fra HTX i Nykøbing F. og elver fra HTX og HHX i Nakskov.  
-Lanpartiet afholdes normalt i 3. weekend i november, men dato afgøres af HTX Nykøbing F. og kan derfor variere.
+Lanpartiet afholdes normalt i 3. weekend i november, men dato afgøres af HTX Nykøbing F. og kan derfor variere.  
+Normalt holdes Lanpartiet fra kl. 17 fredag, til kl. 12 lørdag, hvor det sidste nedpakning er færdig mellem 12 og 15.
 
 HTX LAN køres af LAN-udvalget, som er et udvalg på HTX i Nykøbing F.
 
@@ -66,7 +68,7 @@ LAN udvalgets opgaver dækker blandt andet følgende:
 - Holde oplysninger omkring eventet up to date på diverse platforme
 - Organisering af mad for deltagere og crew
 - Sørge for en samlet planlægning af eventet
-- Evt håndtering af (hvis der ønskes)
+- Evt. håndtering af (hvis der ønskes)
   - Streaming
   - VR rum
   - Brætspil / DND
@@ -89,7 +91,7 @@ Tidsplanen er pænt skewed i forhold til, at der ligger meget arbejde i starten 
 
 ### August
 
-Første/anden skoleuge
+*Start allerede 1-5 dage efter skolestart*
 
 - Formand og næstformand søger nye udvalgs medlemmer
 - Udvalg mødes for første gang, og introducere hinanden
@@ -99,7 +101,7 @@ Første/anden skoleuge
 ### September
 
 - Enkelte udvalgsmedlemmer uddellegeres som ansvarlige for områder (turneringer, mad, sponsorer, osv.)
-- Fastlåsning af turneringer, konkurrencer m.m.
+- Fastlåsning af turneringer, konkurrencer, pris, m.m.
 - Mad tilbud indhentes
 - Sponsorer jagt påbegyndes
 - Annoncering af event dato
@@ -110,7 +112,7 @@ Første/anden skoleuge
 - Opdatere hjemmeside, Facebook, Discord og andre platformer med nye informationer
   - Ret eksisterende data som er der - Gerne gernbrug design og meget af det tekst som er der i forvejen
 
-Slutning af september
+**Slutning af september**
 
 - Der åbnes for tilmelding til HTX LAN via hjemmesiden (når turneringer, mad og priser er på plads)
 
@@ -126,21 +128,45 @@ Slutning af september
 
 - IT-crew klargører servere en weekend ledende op til eventet. Udvalgs medlemmer må gerne deltage for at lære mere om servere og hvordan alt IT og sådan er sat op til eventet
 
-Ugen op til
+**Ugen op til**
 
 - Tidsplan fastsættes - Evt. uploades til hjemmeside og/eller discord
 - Betaling færdiggøres
 
-På dagen op til åbning
+### Event
+**På dagen op til åbning**  
+*Formand og næstformand er tilstede hele dagen*
 
 - Opsætning af borde
-- Hjælp med opsætning af strøm, internet og ligendene
+- Hjælp med opsætning af strøm, internet og lignende for IT-crew
+- Klargøring af andet materielt
+- Sidste finpusning af tidsplaner
+- Opsætning til modtagelse af gæster
 
-Event
+**Event**
 
-På dagen efter lukning
+- Køring af turnering
+- Generel hjælp til deltagere
+- Rengøring (tømme skraldespande, fjerne affald løbende)
+- Uddeling af præmier
+- Sponsor promovering
+- Evt. (hvis der ønskes)
+  - Streaming
+  - VR rum
+  - Brætspil / DND
 
-Efter event
+**På dagen efter lukning**
+
+- Rengøring
+- Oprydning
+- Hjælp til nedpakning af strøm, internet og lignende for IT-crew
+- Kort debriefing (snak om hvad gik godt og skidt - Hovedpunkterne)
+
+**Efter event**
+- Gennemgang af hvad der gik godt og skidt (i dybden)
+- Nedskrivning af punkter til næste år
+- Overdragelse af udvalg fra formand
+- Evt. forberedelse til næste års event
 
 ## Platforme
 
@@ -162,7 +188,7 @@ HTX LAN har en række forskellige platforme som de råder over, disse er:
   - Privat Facebook gruppe til LAN arbejde
 - [GitHub - HTX-LAN organisation](https://github.com/HTX-LAN)
 
-Adgangskoder og lignende, kan fåes ved at tage fat i den formanden eller IT-crew
+Adgangskoder og lignende, kan fåes ved at tage fat i den forrige formand eller IT-crew.
 
 De følgende sektioner, er beskrivende afsnit omkring hver enkelt platform.
 
