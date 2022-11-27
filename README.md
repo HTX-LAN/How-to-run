@@ -30,7 +30,6 @@ This document is in danish.
   - [Materiale](#materiale)
     - [Fysisk](#fysisk)
     - [Digitalt](#digitalt)
-      - [Logo](#logo)
   - [Noter til eventet](#noter-til-eventet)
     - [Huskeliste til udvalget](#huskeliste-til-udvalget)
     - [Huskeliste til deltagere](#huskeliste-til-deltagere)
@@ -124,6 +123,7 @@ Tidsplanen er pænt skewed i forhold til, at der ligger meget arbejde i starten 
 ### November
 
 - Sponsorer fastlåses og annonceres (dette kan også gøres løbende)
+- Præmier fastlåses og annonceres
 - Betaling til eventet åbnes (Oftest betaling kontant i kløften og via mobilepay) (min. 1 uge før)
 
 - IT-crew klargører servere en weekend ledende op til eventet. Udvalgs medlemmer må gerne deltage for at lære mere om servere og hvordan alt IT og sådan er sat op til eventet
@@ -157,8 +157,8 @@ Tidsplanen er pænt skewed i forhold til, at der ligger meget arbejde i starten 
 
 **På dagen efter lukning**
 
-- Rengøring
 - Oprydning
+- Rengøring
 - Hjælp til nedpakning af strøm, internet og lignende for IT-crew
 - Kort debriefing (snak om hvad gik godt og skidt - Hovedpunkterne)
 
@@ -166,6 +166,7 @@ Tidsplanen er pænt skewed i forhold til, at der ligger meget arbejde i starten 
 - Gennemgang af hvad der gik godt og skidt (i dybden)
 - Nedskrivning af punkter til næste år
 - Overdragelse af udvalg fra formand
+- Arkivering af materiale fra eventet på GitHub
 - Evt. forberedelse til næste års event
 
 ## Platforme
@@ -299,16 +300,23 @@ Link: [https://github.com/HTX-LAN](https://github.com/HTX-LAN)
 
 ## Materiale
 
+Materiale, som HTX LAN har, i form af både fysiske og digitale elementer.
+
 ### Fysisk
 
-HTX LAN har også forskellige fysisk materialer, disse er:
+HTX LAN har forskellige fysisk materialer, disse er:
 
 - HTX LAN logo skilt i plast (stort format)
 - HTX LAN banner skilt i metal (stort format)
 
+*Digitale kopier kan findes i [assets biblioteket](https://github.com/HTX-LAN/assets)*
+
 ### Digitalt
 
-#### Logo
+En række forskellige digitale grafiske elementer, er allerede produceret for HTX LAN, af forrige elever på HTX.  
+Disse er tilgængelig på [assets biblioteket](https://github.com/HTX-LAN/assets): [https://github.com/HTX-LAN/assets](https://github.com/HTX-LAN/assets).
+
+Billeder fra forrige events, kan blive fundet i arkivet fra de pågælgende år, hvis et arkiv har været blevet oprettet.
 
 ## Noter til eventet
 
