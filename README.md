@@ -30,6 +30,7 @@ This document is in danish.
   - [Materiale](#materiale)
     - [Fysisk](#fysisk)
     - [Digitalt](#digitalt)
+  - [Feedback fra tidligere events](#feedback-fra-tidligere-events)
   - [Noter til eventet](#noter-til-eventet)
     - [Huskeliste til udvalget](#huskeliste-til-udvalget)
     - [Huskeliste til deltagere](#huskeliste-til-deltagere)
@@ -214,8 +215,8 @@ Link: [https://www.htx-lan.dk/](https://www.htx-lan.dk/)
 
 ### Discord
 
-En primær platform er Discorden for HTX LAN, som en lang række nuværende og tidligere elever allerede er en del af.  
-Discorden fungere som et samlingssted for HTX LAN og dens deltagere, men kanaler dedikeret til crew, IT-crew, turnerings deltagere samt normale deltagere.  
+En primær platform for HTX LAN er Discorden, som en lang række nuværende og tidligere elever allerede er en del af.  
+Discorden fungere som et samlingssted for HTX LAN og dens deltagere, med kanaler dedikeret til crew, IT-crew, turnerings deltagere samt normale deltagere.  
 Bots er sat op til at automatisk kunne oprette hold til diverse turneringer. Kontakt evt The Mikkel (the_mikkel#4641) for at høre mere om disse bots.
 
 Discorden er en god ressource til at samle alt udvalgs arbejde et sted. Dette gør det også lidt muligt at søge efter gammelt materiale.  
@@ -317,6 +318,71 @@ En række forskellige digitale grafiske elementer, er allerede produceret for HT
 Disse er tilgængelig på [assets biblioteket](https://github.com/HTX-LAN/assets): [https://github.com/HTX-LAN/assets](https://github.com/HTX-LAN/assets).
 
 Billeder fra forrige events, kan blive fundet i arkivet fra de pågælgende år, hvis et arkiv har været blevet oprettet.
+
+## Feedback fra tidligere events
+
+For en række afholdelser, har der været lavet feedback af eventet, både hvad gik godt og hvad gik skidt.  
+Denne liste indeholder hovedpunkterne, men det anbefales at tage et kig på nogle af de forrige afholdelsers feedback.
+
+- Ekstremt vigtigt med god turnerings planlægning
+  - Hvis det publiceres en detaljeret plan, skal denne overholdes
+- Ekstremt vigtigt at servere køre smooth
+- Ekstremt vigtigt med sponsorer
+  - Der har været sponsorer hvert år, så det er muligt!
+  - Spørg om konkrete ting - Ikke spørg om penge
+  - Dertil kan sponsorater også blot være rabat
+  - Eksempler på sponsorer:
+    - Føtex, Elgiganten, WebDanes
+    - Lokale virksomheder
+    - Virksomheder som har relation til skolen
+- Branding af præmier
+  - Giver lidt incitament til at deltager i turneringer
+  - Mug, tastatur, musemåtter, game merch og lignende kan sagtens være præmier
+  - Præmier til top 3
+- Tilmelding skal åbnes tidligt, så deltagerne kan nå at planlægge
+- Tidlig reklame
+  - Reklamge er ekstremt vigtigt, fordi der er nye studerende på skolen hele tiden, som ikke har hørt om HTX LAN før, eller måske har glemt det fra tidligere år.
+- Discord
+  - Brug til turnering
+  - Brug til at køre informationer ud - Rigtig god kommunikations kanal under LAN
+- Rolle fordeling
+  - Det er vigtigt at fordele roller ud, så som turnerings ansvarlig
+  - Evt. hav backups eller hjælper til roller
+  - Turnerings ansvarlig skal ikke deltage i den turnering, og være tilgængelig til at kunne hjælpe under den given turnering
+- Turnering
+  - Spille regler
+  - Klare regler for opførsel
+  - Klar ansvarlig
+  - Test i forvejen, såsom challengermode, for at forstå hvordan det fungere
+- Billet pris skal også vise sig i præmier
+  - Højere billet prisere, bedre præmier og lignende
+- Bemandet indgang er nødvendigt
+  - Tidliger år, har der været problemer med uvedkommende har haft kommet
+  - Armbånd har været brugt før - Ekstremt vigtigt ved større antal deltagere
+- Formand og næstformands tilstedeværelse
+  - Vigtigt at de er synlige
+  - Skal kunne træde til opgaver med kort varsel
+    - Frarådes at deltage i turneringer eller spille spil, som ikke kan stoppes
+- Prisleje for event
+  - ca. 60-100 kr.
+- Mad
+  - Vigtigt med mulighed for køb af mad, enten på forhånd eller under lan (pizza eller toasts)
+  - Pizza har været success, som har været bestilt hos Hot and Tasty på stationen
+    - Vigtigt at hver deltager får deres egen pizza. Familie pizza har været prøvet før, men virket ikke godt
+- Længere LAN
+  - Længere LAN har længe været oppe og vende, men Bo er meget imod dette
+  - Lan udvalget har førhen også været lidt imod ideen
+  - Kræver mere dedikeret sovepladser, og flere mad muligheder
+- Pladser
+  - Først til mølle princip har været den primære plads håndtering
+  - Dedikteret hold pladser, har ikke fungeret så godt
+- Streaming
+  - Der har før været kørt stream, som har haft godt tilbage melding. Under Corona i 2020, var HTX LAN flyttet online. Her var Stream den primære platform, sammen med Discord, hvor der var 6 casters som roteret rundt. Der var god feedback, og flere gange været spurgt omkring streaming af turnering, evt. med nogle casters.
+- Roulade spisning - Det er tradition og skal være med
+- Hjemmeside med mange gode informationer er vigtigt - Og der har været god feedback fra dette førhen
+- Opsætning
+  - Vigtgt at bruge hele fredagen, evt. også noget af torsdagen til at sætte ting op
+    - Torsdag bruges udelukkende af IT
 
 ## Noter til eventet
 
