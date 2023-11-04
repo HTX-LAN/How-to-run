@@ -147,6 +147,7 @@ Tidsplanen er pænt skewed i forhold til, at der ligger meget arbejde i starten 
 **Event**
 
 - Køring af turnering
+  - Planlæg så turneringer køre fra kl. 17:30 til 02:00 (*Folk plejer at starte med at gå hjem lidt efter midnat*)
 - Generel hjælp til deltagere
 - Rengøring (tømme skraldespande, fjerne affald løbende)
 - Uddeling af præmier
