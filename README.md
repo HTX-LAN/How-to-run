@@ -213,6 +213,7 @@ Pluginnet har følgende funktioner:
 - Andre widgets
 
 Link: [https://www.htx-lan.dk/](https://www.htx-lan.dk/)  
+Admin: [https://www.htx-lan.dk/dashboard](https://www.htx-lan.dk/dashboard)  
 
 ### Discord
 
